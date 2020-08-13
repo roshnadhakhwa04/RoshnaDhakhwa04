@@ -1,7 +1,7 @@
 ### Hi there 👋
 # Statistics #
 
-![Roshna Dhakhwa's github stats](https://github-readme-stats.vercel.app/api?username=RoshnaDhakhwa&hide=["issues"]&show_icons=true)
+![Roshna Dhakhwa's github stats](https://github-readme-stats.vercel.app/api?username=RoshnaDhakhwa04&hide=["issues"]&show_icons=true)
 <!--
 **RoshnaDhakhwa/RoshnaDhakhwa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
