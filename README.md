@@ -2,6 +2,8 @@
 # Statistics #
 
 ![Roshna Dhakhwa's github stats](https://github-readme-stats.vercel.app/api?username=RoshnaDhakhwa04&hide=["issues"]&show_icons=true)
+<h1>📫 How to reach me: ...</h1>
+<br>
 <a href= 'https://www.linkedin.com/in/sujan-sharma-b965941a7/'>Linkedin <br>
 <!--
 **RoshnaDhakhwa/RoshnaDhakhwa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
