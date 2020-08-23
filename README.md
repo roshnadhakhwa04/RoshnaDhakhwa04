@@ -4,12 +4,14 @@
 ![Roshna Dhakhwa's github stats](https://github-readme-stats.vercel.app/api?username=RoshnaDhakhwa04&hide=["issues"]&show_icons=true)
 <h1>📫 How to reach me: ...</h1>
 <br>
-<img src=https://www.shutterstock.com/image-photo/kiev-ukraine-june-7-2015-linkedin-285114926><a href= 'https://www.linkedin.com/in/sujan-sharma-b965941a7/'>Linkedin <br>
+<a href= 'https://www.linkedin.com/in/sujan-sharma-b965941a7/'>Linkedin <br>
+
 
 <a href= 'https://www.upwork.com/o/profiles/users/~01efe571a9a081b682/'>Upwork <br>
 <!--
 **RoshnaDhakhwa/RoshnaDhakhwa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
