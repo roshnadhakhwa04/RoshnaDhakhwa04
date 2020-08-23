@@ -5,9 +5,10 @@
 <h1>📫 How to reach me: ...</h1>
 <br>
 <a href= 'https://www.linkedin.com/in/sujan-sharma-b965941a7/'>Linkedin <br>
+
+<a href= 'https://www.upwork.com/o/profiles/users/~01efe571a9a081b682/'>Upwork <br>
 <!--
 **RoshnaDhakhwa/RoshnaDhakhwa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-<a href= 'https://www.linkedin.com/in/sujan-sharma-b965941a7/'>Linkedin <br>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
