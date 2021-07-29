@@ -5,7 +5,7 @@
 <h1>📫 How to reach me: ...</h1>
 <br>
 My Profile<br>
-dhakhwaros073@gmail.com
+dhakhwaros073@gmail.com<br>
 <a href= 'https://www.linkedin.com/in/roshna-dhakhwa-1191721aa/'>Linkedin <br>
 <a href= 'https://www.upwork.com/o/profiles/users/~01efe571a9a081b682/'>Upwork <br>
 
